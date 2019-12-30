@@ -4,7 +4,7 @@
 
 PhotoSwipe, PhotoSwipeGallery component for Vuejs base on [PhotoSwipe](http://photoswipe.com/).
 
-This is the same exact library as [v-photoswipe](https://www.npmjs.com/package/v-photoswipe), but it just has English language button titles.
+This is the same exact library as [v-photoswipe](https://www.npmjs.com/package/v-photoswipe), but with English language button titles. v-photoswipe a perfectly functioning library, I just had to update the button titles by request from my client.
 
 ## Installation  
 
