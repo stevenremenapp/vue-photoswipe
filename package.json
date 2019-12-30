@@ -2,7 +2,7 @@
   "name": "v-photoswipe-updated-btn-titles",
   "description": "Vue plugin for image preview base on PhotoSwipe with updated button titles",
   "main": "dist/v-photoswipe.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Steven Remenapp <remenapp@gmail.com>",
   "license": "MIT",
   "scripts": {
