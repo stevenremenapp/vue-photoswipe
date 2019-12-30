@@ -1,15 +1,16 @@
-# Vue PhotoSwipe  
+# Vue PhotoSwipe with English Language Button Titles
 
 ![npm](https://img.shields.io/npm/l/express.svg)
 
-
 PhotoSwipe, PhotoSwipeGallery component for Vuejs base on [PhotoSwipe](http://photoswipe.com/).
+
+This is the same exact library as [v-photoswipe](https://www.npmjs.com/package/v-photoswipe), but it just has English language button titles.
 
 ## Installation  
 
 ### NPM  
 ``` bash
-  npm install --save v-photoswipe  
+  npm i v-photoswipe-updated-btn-titles
 ```
 
 ## Usage  
